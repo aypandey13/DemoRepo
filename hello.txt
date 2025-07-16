@@ -1,1 +1,4 @@
 #This is my gitRepo
+Author - Ayush Pandey
+
+This is to practice git and gitHub
